@@ -13,5 +13,5 @@ function compare () {
   } else {
     document.getElementById('reveal').innerHTML = 'That number is positive.'
     // However, if the statement is not true, meaning if the input is not negative, then the "if" function will be ignored and the "else" function will be carried out.
-   }
+  }
 }
