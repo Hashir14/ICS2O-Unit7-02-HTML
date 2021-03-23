@@ -1,0 +1,24 @@
+body {
+  background-color: lightblue;
+  font-size: 200%;
+}
+
+.title {
+  text-decoration: underline;
+  text-align: center;
+  margin: 100px;
+}
+
+
+.together {
+  height: 120px;
+  width: 600px;
+  margin-left: 50px;
+  font-size: 150%;
+  text-align: center;
+}
+
+#reveal {
+  font-size: 330%;
+  text-align: center;
+}
